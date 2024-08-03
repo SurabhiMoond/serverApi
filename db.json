@@ -1,0 +1,151 @@
+{
+  "data":[
+  {
+    "currencyCode": "USD",
+    "countryName": "United States",
+    "capital": "WashingtonD.C.",
+    "languages": ["English"],
+    "flagURL": "https://flagsapi.com/US/shiny/64.png"
+  },
+  {
+    "currencyCode": "EUR",
+    "countryName": "Germany",
+    "capital": "Berlin",
+    "languages": ["German"],
+    "flagURL": "https://flagsapi.com/DE/shiny/64.png"
+  },
+  {
+    "currencyCode": "JPY",
+    "countryName": "Japan",
+    "capital": "Tokyo",
+    "languages": ["Japanese"],
+    "flagURL": "https://flagsapi.com/JP/shiny/64.png"
+  },
+  {
+    "currencyCode": "GBP",
+    "countryName": "United Kingdom",
+    "capital": "London",
+    "languages": ["English"],
+    "flagURL": "https://flagsapi.com/GB/shiny/64.png"
+  },
+  {
+    "currencyCode": "AUD",
+    "countryName": "Australia",
+    "capital": "Canberra",
+    "languages": ["English"],
+    "flagURL": "https://flagsapi.com/AU/shiny/64.png"
+  },
+  {
+    "currencyCode": "CAD",
+    "countryName": "Canada",
+    "capital": "Ottawa",
+    "languages": ["English", "French"],
+    "flagURL": "https://flagsapi.com/CA/shiny/64.png"
+  },
+  {
+    "currencyCode": "CHF",
+    "countryName": "Switzerland",
+    "capital": "Bern",
+    "languages": ["German", "French", "Italian"],
+    "flagURL": "https://flagsapi.com/CH/shiny/64.png"
+  },
+  {
+    "currencyCode": "CNY",
+    "countryName": "China",
+    "capital": "Beijing",
+    "languages": ["Chinese"],
+    "flagURL": "https://flagsapi.com/CN/shiny/64.png"
+  },
+  {
+    "currencyCode": "INR",
+    "countryName": "India",
+    "capital": "New Delhi",
+    "languages": ["Hindi", "English"],
+    "flagURL": "https://flagsapi.com/IN/shiny/64.png"
+  },
+  {
+    "currencyCode": "MXN",
+    "countryName": "Mexico",
+    "capital": "Mexico City",
+    "languages": ["Spanish"],
+    "flagURL": "https://flagsapi.com/MX/shiny/64.png"
+  },
+  {
+    "currencyCode": "BRL",
+    "countryName": "Brazil",
+    "capital": "Brasília",
+    "languages": ["Portuguese"],
+    "flagURL": "https://flagsapi.com/BR/shiny/64.png"
+  },
+  {
+    "currencyCode": "ZAR",
+    "countryName": "South Africa",
+    "capital": "Pretoria",
+    "languages": ["Afrikaans", "English"],
+    "flagURL": "https://flagsapi.com/ZA/shiny/64.png"
+  },
+  {
+    "currencyCode": "RUB",
+    "countryName": "Russia",
+    "capital": "Moscow",
+    "languages": ["Russian"],
+    "flagURL": "https://flagsapi.com/RU/shiny/64.png"
+  },
+  {
+    "currencyCode": "SEK",
+    "countryName": "Sweden",
+    "capital": "Stockholm",
+    "languages": ["Swedish"],
+    "flagURL": "https://flagsapi.com/SE/shiny/64.png"
+  },
+  {
+    "currencyCode": "NOK",
+    "countryName": "Norway",
+    "capital": "Oslo",
+    "languages": ["Norwegian"],
+    "flagURL": "https://flagsapi.com/NO/shiny/64.png"
+  },
+  {
+    "currencyCode": "DKK",
+    "countryName": "Denmark",
+    "capital": "Copenhagen",
+    "languages": ["Danish"],
+    "flagURL": "https://flagsapi.com/DK/shiny/64.png"
+  },
+  {
+    "currencyCode": "KRW",
+    "countryName": "South Korea",
+    "capital": "Seoul",
+    "languages": ["Korean"],
+    "flagURL": "https://flagsapi.com/KR/shiny/64.png"
+  },
+  {
+    "currencyCode": "SGD",
+    "countryName": "Singapore",
+    "capital": "Singapore",
+    "languages": ["English", "Mandarin", "Malay", "Tamil"],
+    "flagURL": "https://flagsapi.com/SG/shiny/64.png"
+  },
+  {
+    "currencyCode": "HKD",
+    "countryName": "Hong Kong",
+    "capital": "Hong Kong",
+    "languages": ["Chinese", "English"],
+    "flagURL": "https://flagsapi.com/HK/shiny/64.png"
+  },
+  {
+    "currencyCode": "TWD",
+    "countryName": "Taiwan",
+    "capital": "Taipei",
+    "languages": ["Chinese"],
+    "flagURL": "https://flagsapi.com/TW/shiny/64.png"
+  }
+],
+"user":[
+{"id" : 1,
+"name" : "Surabhi",
+"email" : "surabhi24jrk@gmail.com"
+}
+
+]
+}
